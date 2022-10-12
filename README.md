@@ -1,1 +1,2 @@
 # BlogOaxaca
+A travel blog
